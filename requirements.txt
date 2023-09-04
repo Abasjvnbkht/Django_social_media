@@ -1,0 +1,6 @@
+asgiref==3.7.2
+autopep8==2.0.2
+certifi==2023.7.22
+Django==4.2.2
+pycodestyle==2.10.0
+sqlparse==0.4.4
